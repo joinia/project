@@ -4,7 +4,7 @@
 
 Persistent XSS (or Stored XSS) attack is one of the three major categories of XSS attacks, the others being Non-Persistent (or Reflected) XSS and DOM-based XSS. In general, XSS attacks are based on the victim’s trust in a legitimate, but vulnerable, website or web application.GetSimple CMS does not filter the content correctly at the "content" module, resulting in the generation of stored XSS.
 
-#### Affects Plugins
+#### Affects CMS
 
 GetSimple CMS
 
