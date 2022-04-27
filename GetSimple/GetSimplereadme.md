@@ -22,15 +22,15 @@ webraybtl@webray.com.cn inc
 
 3. Put XSS payload  (<script>alert(111)</script>) in the content box and click on save page to publish the page
 
-   ![write](D:\cves\GetSimple\images\write.png)
+   ![image](https://github.com/joinia/project/blob/main/GetSimple/images/write.png)
 
 4. Use "burp"  to capture and change packages
 
-   ![package-1](D:\cves\GetSimple\images\package-1.png)
+   ![image](https://github.com/joinia/project/blob/main/GetSimple/images/package-1.png)
 
-   ![package-2](D:\cves\GetSimple\images\package-2.png)
+   ![image](https://github.com/joinia/project/blob/main/GetSimple/images/package-2.png)
 
 5. Viewing the successfully published page,We can see the alert.
 
-![pagealert](D:\cves\GetSimple\images\pagealert.png)
+![image](https://github.com/joinia/project/blob/main/GetSimple/images/pagealert.png)
 
